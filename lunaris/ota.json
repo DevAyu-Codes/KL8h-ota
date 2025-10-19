@@ -1,14 +1,11 @@
 {
-  "filename": "Lunaris-13.0-arm64-bvN-20251018.img.xz",
+  "filename": "system.img.xz",
   "datetime": 1666098000,
-  "size": 1599897600,
-  "url": "https://github.com/YourUser/lunaris-gsi/releases/download/v1.5/Lunaris-13.0-arm64-bvN-20251018.img.xz",
-  "version": "1.5",
+  "size": 1480873156,
+  "url": "https://github.com/DevAyu-Codes/KL8h-releases/releases/download/Lunaris-3.4/system.img.xz",
+  "version": "3.4",
   "id": "f0e9d8c7b6a5f0e9d8c7b6a5f0e9d8c7b6a5f0e9",
   "changelog": [
-    "Updated to October 2025 Security Patch.",
-    "Improved battery life with Lunaris optimizations.",
-    "Enhanced camera processing.",
-    "Updated system accent colors."
+    "Made unofficial"
   ]
 }
